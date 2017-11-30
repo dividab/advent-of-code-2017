@@ -1,0 +1,3 @@
+[submodule "jonathan"]
+	path = jonathan
+	url = https://github.com/Jontem/advent-of-code-2017.git
